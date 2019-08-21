@@ -1,0 +1,12 @@
+	        "wmic cpu get name",
+                "wmic memorychip get capacity",
+                "wmic diskdrive get mediatype",
+                "wmic diskdrive get size",
+                "wmic diskdrive get status",
+                "wmic bios get serialnumber",
+                "wmic csproduct get name",
+                "wmic csproduct get vendor",
+		"wmic nic get macaddress"
+
+
+https://www.poftut.com/windows-wmic-windows-management-interface-command-tutorial-with-examples/
